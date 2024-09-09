@@ -1,0 +1,13 @@
+- A distributed ledger that keeps track of transactions
+- All users of the blockchain help maintain the ledger and all users have a copy of the ledger
+- Used to track the following
+	- Payment processing
+	- Digital identification
+	- Supply chain monitoring
+	- Digital voting
+## Process
+- The transaction is sent to all the nodes in a **decentralized** network, to be verified
+- The transaction is added to a larger **block** of transactions which contains other recently verified transactions
+- A [[Hashing and Digital Signatures#Hashing|hash]] is calculated from the previous blocks of transaction data and is appended to the new block of verified transactions
+- The ledger is updated with the newly added hash, and is sent to all nodes maintaining the ledger
+- If a malicious (or failed node) attempts to alter a block, all other nodes will recognize that the blocks hash is invalid and will reject the change  

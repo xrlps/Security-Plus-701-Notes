@@ -1,0 +1,4 @@
+- An attack without a patch or method of mitigation
+- The discovery of the vulnerability and execution of the attack happens on the same day (zero-day)
+- The attack is ongoing until the defender can develop and deploy a patch
+- List of [zero-days](https://cve.mitre.org/)

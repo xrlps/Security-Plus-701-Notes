@@ -1,0 +1,12 @@
+- The process and steps involved in moving raw products from initial production to delivering the final product to the consumer
+- The key contributors to the supply chain include:
+	- Raw materials
+	- Suppliers/Providers
+	- Manufacturers
+	- Distributers
+	- Customers
+	- Consumers
+- A single vulnerability at any point in the supply chain or to any contributor can compromise the entire chain
+## Supply chain analysis
+- Helps organizations understand the entire supply chain process to determine where potential security risks may be
+- Break down each step of the supply chain process, evaluating and recording steps

@@ -1,0 +1,8 @@
+- Because data stored on the cloud can be accessible to anyone, the following attacks are possible
+	- [[Denial of Service|DoS]] attacks
+	- Potential authentication bypass
+	- Directory traversal
+	- Remote code execution
+	- [[Web-based#Cross-site scripting (XSS)|Cross-site scripting (XSS)]]
+	- [[Application Vulnerabilities#Memory Injections|Out of bounds write]]
+	- [[Web-based#SQL Injection (SQLi)|SQL injection]]
